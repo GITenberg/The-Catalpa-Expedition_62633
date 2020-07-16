@@ -1,11 +1,16 @@
 _repo: The-Catalpa-Expedition_62633
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62633-h/images/cover.jpg
 creator:
   author:
     agent_name: Pease, Zeph. W. (Zephaniah Walter)
     gutenberg_agent_id: '52046'
     url: http://www.gutenberg.org/2009/agents/52046
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62633#The-Catalpa-Expedition
 gutenberg_issued: '2020-07-13'
 gutenberg_type: Text
 identifiers:
